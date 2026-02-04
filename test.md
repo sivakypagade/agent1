@@ -12,3 +12,11 @@ you can use the below tools - calculate_dti_ratio, calculate_housing_expense_rat
 
 exact calculations without recalculating
 for any policies information use the policies
+
+ Provide a detailed report with all the following details about the user-
+ 
+ Present Employment data
+ pre-calculated DTI/housing ratios
+ debt obligations with clear formatting and section headers
+
+ 
